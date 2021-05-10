@@ -1,5 +1,7 @@
 # Mototaxi
 
+Repository restored on 05/10/2021, Mototaxi is a dependency on active projects and cannot be deleted.
+
 Installation:
 `npm install --save mototaxi`
 
